@@ -1,0 +1,142 @@
+{
+  "종합지": {
+    "조선일보": {
+      "newspaper": "조선일보",
+      "articles": [
+        {
+          "title": "지난 총선 ‘검증위원장’ 김병기, 셀프 검증해 뒷돈 의혹 뭉갰나",
+          "link": "https://n.news.naver.com/article/newspaper/023/0003950677?date=20260103"
+        },
+        {
+          "title": "검찰, 서해 피살 은폐 사건 ‘반쪽 항소’",
+          "link": "https://n.news.naver.com/article/newspaper/023/0003950678?date=20260103"
+        },
+        {
+          "title": "내 책상도 불안하다… AI 일자리 쇼크 시작",
+          "link": "https://n.news.naver.com/article/newspaper/023/0003950674?date=20260103"
+        },
+        {
+          "title": "李 “하나의 중국 존중, 韓中정상 1년에 한번은 만나야”",
+          "link": "https://n.news.naver.com/article/newspaper/023/0003950675?date=20260103"
+        }
+      ],
+      "page_url": "https://media.naver.com/press/023/newspaper?date=20260103"
+    },
+    "중앙일보": {
+      "newspaper": "중앙일보",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/353/newspaper?date=20260103"
+    },
+    "동아일보": {
+      "newspaper": "동아일보",
+      "articles": [
+        {
+          "title": "강선우 “김경 공천해야”… ‘살려달라’ 다음날 주장",
+          "link": "https://n.news.naver.com/article/newspaper/020/0003686512?date=20260103"
+        },
+        {
+          "title": "‘센터’ 선 김정은 딸 주애, 금수산궁전 첫 참배",
+          "link": "https://n.news.naver.com/article/newspaper/020/0003686478?date=20260103"
+        },
+        {
+          "title": "李 “하나의 중국 존중… 韓中 국익, 서로 인정해야”",
+          "link": "https://n.news.naver.com/article/newspaper/020/0003686513?date=20260103"
+        },
+        {
+          "title": "새해 첫 거래일 코스피 4300 돌파, 사상 최고치 경신",
+          "link": "https://n.news.naver.com/article/newspaper/020/0003686476?date=20260103"
+        },
+        {
+          "title": "“창업 2, 3년은 수익 안따져” 실리콘밸리 유니콘 105개, 韓의 8배",
+          "link": "https://n.news.naver.com/article/newspaper/020/0003686475?date=20260103"
+        }
+      ],
+      "page_url": "https://media.naver.com/press/020/newspaper?date=20260103"
+    },
+    "한겨레": {
+      "newspaper": "한겨레",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/028/newspaper?date=20260103"
+    },
+    "경향신문": {
+      "newspaper": "경향신문",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/032/newspaper?date=20260103"
+    },
+    "한국일보": {
+      "newspaper": "한국일보",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/469/newspaper?date=20260103"
+    },
+    "국민일보": {
+      "newspaper": "국민일보",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/005/newspaper?date=20260103"
+    },
+    "서울신문": {
+      "newspaper": "서울신문",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/081/newspaper?date=20260103"
+    }
+  },
+  "경제지": {
+    "매일경제": {
+      "newspaper": "매일경제",
+      "articles": [
+        {
+          "title": "AI發 일자리 격변…노동규제는 불변",
+          "link": "https://n.news.naver.com/article/newspaper/009/0005615603?date=20260103"
+        },
+        {
+          "title": "코스피 '화끈한 새해' 개장 첫날 4300 돌파",
+          "link": "https://n.news.naver.com/article/newspaper/009/0005615604?date=20260103"
+        },
+        {
+          "title": "[포토] 李대통령 부부, 5부 요인과 건배",
+          "link": "https://n.news.naver.com/article/newspaper/009/0005615689?date=20260103"
+        },
+        {
+          "title": "李대통령 \"하나의 중국 존중…공존·협력해야\"",
+          "link": "https://n.news.naver.com/article/newspaper/009/0005615688?date=20260103"
+        },
+        {
+          "title": "'AI 패권' 올해가 분수령 … 미·중 CES서 진검승부",
+          "link": "https://n.news.naver.com/article/newspaper/009/0005615609?date=20260103"
+        }
+      ],
+      "page_url": "https://media.naver.com/press/009/newspaper?date=20260103"
+    },
+    "한국경제": {
+      "newspaper": "한국경제",
+      "articles": [
+        {
+          "title": "코스피 4309…새해 첫날 최고가 찍었다",
+          "link": "https://n.news.naver.com/article/newspaper/015/0005232047?date=20260103"
+        },
+        {
+          "title": "'중국車 누가 타냐' 무시당했는데…테슬라 제치고 세계 1위",
+          "link": "https://n.news.naver.com/article/newspaper/015/0005232043?date=20260103"
+        },
+        {
+          "title": "기업들 \"경직된 규제 풀어 성장에 모든 초점 맞춰야\"",
+          "link": "https://n.news.naver.com/article/newspaper/015/0005232055?date=20260103"
+        },
+        {
+          "title": "방중 앞둔 이재명 대통령 \"하나의 중국 존중\"",
+          "link": "https://n.news.naver.com/article/newspaper/015/0005232037?date=20260103"
+        }
+      ],
+      "page_url": "https://media.naver.com/press/015/newspaper?date=20260103"
+    },
+    "서울경제": {
+      "newspaper": "서울경제",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/011/newspaper?date=20260103"
+    },
+    "머니투데이": {
+      "newspaper": "머니투데이",
+      "articles": [],
+      "page_url": "https://media.naver.com/press/008/newspaper?date=20260103"
+    }
+  }
+}
