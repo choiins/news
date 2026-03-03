@@ -150,8 +150,8 @@ def scrape_naver_news():
                 print(f"❌ 텔레그램 전송 중 오류: {str(e)}")
         else:
             print("\n💡 텔레그램으로 결과를 받으려면 환경 변수를 설정하세요:")
-            print("   export TELEGRAM_BOT_TOKEN='your8571818489:AAEjJ_XElYIHPduHgMbmhQ1RbmVhWK6CEUo'")
-            print("   export TELEGRAM_CHAT_ID='6355937482'")
+            print("   export TELEGRAM_BOT_TOKEN='여기에 토큰값을 넣으세요'")
+            print("   export TELEGRAM_CHAT_ID='여기에 ID값을 넣으세요'")
         
         
         
