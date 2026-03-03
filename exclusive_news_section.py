@@ -14,8 +14,8 @@ SECTIONS = {
 }
 
 # 텔레그램 설정 (환경변수에서 가져오기, 없으면 기본값 사용)
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8571818489:AAEjJ_XElYIHPduHgMbmhQ1RbmVhWK6CEUo")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "6355937482")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "여기에 토큰값을 넣으세요")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "여기에 ID값을 넣으세요")
 
 
 def get_news_from_section(section_id: str, section_name: str) -> List[Dict[str, str]]:
